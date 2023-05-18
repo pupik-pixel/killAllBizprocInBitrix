@@ -1,4 +1,4 @@
-# killAllBizprocInBitrix
+# terminateAllBizprocInBitrix
 
 ### Останавливает все бизнес-процессы на вашей битрикс24 коробка
 
